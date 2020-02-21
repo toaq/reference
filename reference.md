@@ -12,7 +12,7 @@
 
 <!-- ### The syllable -->
 
-<!-- ## Syntax -->
+## Syntax
 
 <!-- ### The tones -->
 
@@ -26,7 +26,7 @@
 
 <!-- ### Fragmental sentences -->
 
-<!-- ### The predicate phrase -->
+### The predicate phrase
 
 <!-- #### Simple predicates -->
 
@@ -50,7 +50,9 @@
 
 <!-- ##### Ordinal numbers -->
 
-<!-- #### Predicatizers -->
+#### Predicatizers
+
+**po** is opaque: if the complement is quantified, it encloses it in its own scope. (See <https://github.com/toaq/reference/issues/1>.)
 
 <!-- ### Terms -->
 
