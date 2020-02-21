@@ -1,101 +1,106 @@
-## Phonology
+# ***THE REFERENCE***
 
-### Consonants
+<!-- If you add a point under a heading that's commented out, be sure
+     to uncomment *both* it *and* all headings this heading is
+     contained within. -->
 
-### Vowels
+<!-- ## Phonology -->
 
-### The syllable
+<!-- ### Consonants -->
 
-## Syntax
+<!-- ### Vowels -->
 
-### The tones
+<!-- ### The syllable -->
 
-#### Pronunciation of two-part tones in diphthongs
+<!-- ## Syntax -->
 
-#### Pronunciation of the neutral tone
+<!-- ### The tones -->
 
-#### Tone functions
+<!-- #### Pronunciation of two-part tones in diphthongs -->
 
-### Sentence structure
+<!-- #### Pronunciation of the neutral tone -->
 
-### Fragmental sentences
+<!-- #### Tone functions -->
 
-### The predicate phrase
+<!-- ### Sentence structure -->
 
-#### Simple predicates
+<!-- ### Fragmental sentences -->
 
-#### Serial predicates
+<!-- ### The predicate phrase -->
 
-#### Names
+<!-- #### Simple predicates -->
 
-#### Quotations
+<!-- #### Serial predicates -->
 
-#### Compound predicates
+<!-- #### Names -->
 
-##### Borrowings
+<!-- #### Quotations -->
 
-#### Personal reference predicates
+<!-- #### Compound predicates -->
 
-#### Numbers
+<!-- ##### Borrowings -->
 
-##### Bigger numbers
+<!-- #### Personal reference predicates -->
 
-##### Inexact quantities
+<!-- #### Numbers -->
 
-##### Ordinal numbers
+<!-- ##### Bigger numbers -->
 
-#### Predicatizers
+<!-- ##### Inexact quantities -->
 
-### Terms
+<!-- ##### Ordinal numbers -->
 
-#### Argument phrases
+<!-- #### Predicatizers -->
 
-##### Concrete arguments
+<!-- ### Terms -->
 
-##### Content clauses
+<!-- #### Argument phrases -->
 
-###### Properties
+<!-- ##### Concrete arguments -->
 
-##### Relative clauses
+<!-- ##### Content clauses -->
 
-##### Linking words
+<!-- ###### Properties -->
 
-#### Prepositional phrases
+<!-- ##### Relative clauses -->
 
-#### Adverbs
+<!-- ##### Linking words -->
 
-### Function words
+<!-- #### Prepositional phrases -->
 
-#### Illocution markers
+<!-- #### Adverbs -->
 
-#### The prenex
+<!-- ### Function words -->
 
-##### Topical prenex
+<!-- #### Illocution markers -->
 
-##### Applied prenex
+<!-- #### The prenex -->
 
-#### Prefixes
+<!-- ##### Topical prenex -->
 
-##### Quantifiers
+<!-- ##### Applied prenex -->
 
-##### Interrogative prefixes
+<!-- #### Prefixes -->
 
-##### Statement prefixes
+<!-- ##### Quantifiers -->
 
-#### Conjunctions
+<!-- ##### Interrogative prefixes -->
 
-##### Termsets
+<!-- ##### Statement prefixes -->
 
-#### Free modifiers
+<!-- #### Conjunctions -->
 
-##### Interjections
+<!-- ##### Termsets -->
 
-##### Parentheticals
+<!-- #### Free modifiers -->
 
-##### Incidental clauses
+<!-- ##### Interjections -->
 
-##### The vocative
+<!-- ##### Parentheticals -->
 
-#### Sentence prefixes
+<!-- ##### Incidental clauses -->
 
+<!-- ##### The vocative -->
+
+<!-- #### Sentence prefixes -->
 
