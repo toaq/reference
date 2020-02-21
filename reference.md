@@ -1,4 +1,4 @@
-# ***THE REFERENCE***
+# THE REFERENCE
 
 <!-- If you add a point under a heading that's commented out, be sure
      to uncomment *both* it *and* all headings this heading is
