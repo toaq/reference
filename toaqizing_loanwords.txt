@@ -1,5 +1,15 @@
 
 
+§ {NUCLEUS}
+æ → a (???)
+y → i
+ø/œ → ɤ
+ɨ → ɤ
+ʉ → u
+ɐ → a
+ɯ → ɤ
+
+
 § ._V:
 # Between a syllable break and a vowel:
 θ → t (?)
@@ -21,6 +31,7 @@ w → b
 nj/nʲ → ɲ
 ŋ → n
 ʎ/lj/lʲ/ → l
+ɺ|ʀ → r
 
 
 § _. | _C:
