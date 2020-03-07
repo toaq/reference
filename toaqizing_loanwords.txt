@@ -29,5 +29,5 @@ CɫV → CuV
 CVr → ???
 CVl → CVi
 CVɫ → CVu
-
+CVC → ???
 
