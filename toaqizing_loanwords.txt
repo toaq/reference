@@ -7,16 +7,17 @@
 q → k
 c/tj/tʲ → t͡ɕ
 ɟ/dj/dʲ → d͡ʑ
-nj/nʲ → ɲ
-ʎ/lj/lʲ/ → l
 z → d͡z
 v → b
 x → h
 ʁ → h (?)
 j → d͡ʑ
 w → b
-ɹ → r (?)
+ɹ/ɻ → r (?)
 ʕ → h
+nj/nʲ → ɲ
+ŋ → n
+ʎ/lj/lʲ/ → l
 
 
 § _. | _C:
